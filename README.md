@@ -6,7 +6,7 @@
 - 😄 Pronouns: I dont care, even profanity works
 - ⚡ Fun fact: I'm probably a little crazy
 - Current Project: CelestaraOS, fallback OS: StarSafe
-- Kernel: CoreAI, using TRTLE optimization
+- Kernel: CoreAI
 
 <!---
 IzzieBoopers/IzzieBoopers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
